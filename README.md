@@ -1,6 +1,3 @@
-# Interactive-Enterprise-BI-Dashboard-Automated-ETL-Pipeline
-Interactive Enterprise BI Dashboard &amp; Automated ETL Pipeline
-
 # Interactive Enterprise BI Marketing Funnel & ETL Pipeline
 
 A production-ready Full-Stack Data Product built with **Streamlit** and **Plotly Express** designed to automate cross-channel marketing campaign auditing, data extraction, and econometric KPI validation.
